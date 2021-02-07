@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="restaurant-menu-selector-215d12f781295acf08e38491273fe7c123cd7cfd/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
